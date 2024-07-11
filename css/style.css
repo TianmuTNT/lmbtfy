@@ -203,11 +203,6 @@ html, body {
     padding: 0 10px;
 }
 
-.footer-left, .footer-left a {
-    color: #9195a3;
-    text-decoration: none;
-}
-
 .footer-right {
     float: right;
 }
